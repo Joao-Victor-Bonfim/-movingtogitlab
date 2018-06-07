@@ -9,3 +9,5 @@ Migrarei para o GitLab
 João Victor Bonfim.
 
 #movingtogitlab
+
+PS: minha conta no GitLab: @Joao-Victor-Bonfim
